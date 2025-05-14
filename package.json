@@ -1,0 +1,13 @@
+{
+  "name": "kick-chat-server",
+  "version": "1.0.0",
+  "description": "Kick chat collector for Unreal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^8.13.0"
+  }
+}
